@@ -1,2 +1,2 @@
 # Initial Material UI React Template
-## run [npm react-script]
+## run ```npm react-script```
