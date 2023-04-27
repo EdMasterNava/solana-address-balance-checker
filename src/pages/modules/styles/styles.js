@@ -1,7 +1,5 @@
-import { makeStyles } from "@mui/material";
+const style = () => ({
+    //Custom Styles 
+});
 
-const useStyles = makeStyles((theme) => ({
-    //Any custom class styling goes here
-}));
-
-export default useStyles;
+export default style;

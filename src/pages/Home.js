@@ -1,12 +1,12 @@
 import * as React from 'react';
 import Typography from './modules/components/Typography';
 
-import useStyles from './modules/styles/styles';
+import style from './modules/styles/styles';
 import withRoot from './modules/styles/withRoot';
 
 
 function Home() {
-    const classes = useStyles();
+    const css = style();
     return (
         <>
             <Typography variant="h1" sx={{textAlign: 'center'}}>
