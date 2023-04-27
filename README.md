@@ -1,3 +1,3 @@
 # Initial Material UI React Template
 ## Installation
-### run ```npm react-script```
+run ```npm react-script```
